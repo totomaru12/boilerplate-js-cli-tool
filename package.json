@@ -6,7 +6,11 @@
   "author": "totomaru12",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "jest": "^27.0.5",
     "standard": "^16.0.3"
   },
   "dependencies": {
