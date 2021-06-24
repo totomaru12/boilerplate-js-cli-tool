@@ -7,10 +7,8 @@ javascript command line tool boilerplate
 - auto code styling (includes formatter)
 - cli parameter handling
 - testing
-- [TODO] vscode debug
 - [TODO] file (json/csv) input helper
 - [TODO] file (json/csv) output helper
-- [TODO] logging
 
 ## setup
 
